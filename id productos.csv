@@ -1,0 +1,5 @@
+id,producto, valor, type, isforsale, isforpurchase
+00001,Emp,2200,0,1,0
+00002,Períco,2300,0,1,0
+00003,Fríto,2800,0,1,0
+00004,pastel,2300,0,1,0
